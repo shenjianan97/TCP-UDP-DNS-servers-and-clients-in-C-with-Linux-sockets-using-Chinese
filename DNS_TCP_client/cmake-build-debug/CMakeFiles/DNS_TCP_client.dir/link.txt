@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/DNS_TCP_client.dir/DNS_TCP_client.c.o  -o DNS_TCP_client 

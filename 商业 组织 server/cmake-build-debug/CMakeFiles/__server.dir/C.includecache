@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shenjianan/文档/DNS/商业 组织 server/SZServer.c
+SZServer.h
+/home/shenjianan/文档/DNS/商业 组织 server/SZServer.h
+
+/home/shenjianan/文档/DNS/商业 组织 server/SZServer.h
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+stdlib.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+unistd.h
+-
+assert.h
+-
+

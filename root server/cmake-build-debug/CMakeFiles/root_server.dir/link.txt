@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/root_server.dir/RootServer.c.o  -o root_server 

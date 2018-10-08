@@ -1,0 +1,3 @@
+/home/shenjianan/文档/DNS/root server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shenjianan/文档/DNS/root server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shenjianan/文档/DNS/root server/cmake-build-debug/CMakeFiles/root_server.dir

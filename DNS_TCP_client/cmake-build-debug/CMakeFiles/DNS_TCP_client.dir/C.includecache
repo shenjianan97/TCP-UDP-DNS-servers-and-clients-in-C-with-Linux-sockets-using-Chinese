@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shenjianan/文档/DNS_TCP_client/DNS_TCP_client.c
+DNS_TCP_client.h
+/home/shenjianan/文档/DNS_TCP_client/DNS_TCP_client.h
+
+/home/shenjianan/文档/DNS_TCP_client/DNS_TCP_client.h
+stdio.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+fcntl.h
+-
+
